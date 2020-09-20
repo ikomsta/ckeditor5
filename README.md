@@ -12,7 +12,7 @@ CKEditor 5 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?styl
 
 A set of ready-to-use rich text editors created with a powerful framework. Made with real-time collaborative editing in mind.
 
-![CKEditor 5 Classic rich text editor build screenshot](https://c.cksource.com/a/1/img/npm/ckeditor5-build-classic.png)
+![CKEditor 5 Easter egg image](./weather_kitty.jpg)
 
 ## Table of contents
 
