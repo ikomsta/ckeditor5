@@ -16,3 +16,10 @@
 1. In the **Editor 2** click on the arrow button in `imageInsert` plugin to reveal the image insert panel.
 1. Click on the **CKFinder** button.
 1. Choose image and confirm.
+
+## Image upload via invalid URL
+
+1. Click on the arrow button in `imageUpload` plugin to reveal the image upload panel.
+1. Type in following text: `thisisinvalidurl123`
+1. Click `Insert` button
+1. Check if validation raises error 
